@@ -21,6 +21,7 @@
     </dependencies>
   </dependencyManagement>
   <build>
+    <finalName>exemplo-wildfly-swarm-jaxrs-jpa-ejb-sqlserver</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
